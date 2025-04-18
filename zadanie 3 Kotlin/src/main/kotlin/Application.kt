@@ -6,7 +6,7 @@ import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
 import io.ktor.serialization.kotlinx.json.json
 
 suspend fun main() {
-    val discordWebhookUrl = "https://discordapp.com/api/webhooks/1362470315560538192/kvGlwAhe2UOT7TmVIShuSO5JNQhCafRLa5Bv4apG9hbff7NDn79zvNgq4gvT1rMn8hRz"
+    val discordWebhookUrl = "https://discordapp.com/api/webhooks/XXXXXXXXXXXX"
     
      val client = HttpClient(CIO) {
         install(ContentNegotiation) {
