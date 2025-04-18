@@ -3,7 +3,7 @@
 **Zadanie 1** Docker
 
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10
-[Link]{https://github.com/veronika-g-00/ebiznes/blob/main/zadanie%201%20Docker/Dockerfile}
+[Link](https://github.com/veronika-g-00/ebiznes/blob/main/zadanie%201%20Docker/Dockerfile)
 
 KOD: https://github.com/veronika-g-00/ebiznes/tree/main/zadanie%201%20Docker
 
