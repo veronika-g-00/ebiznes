@@ -36,6 +36,6 @@ KOD: https://github.com/veronika-g-00/ebiznes/tree/main/zadanie%203%20Kotlin
 
 :white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Produktów zgodny z CRUD
 
-[Link](https://github.com/veronika-g-00/ebiznes/blob/main/zadanie%203%20Kotlin/src/main/kotlin/Application.kt](https://github.com/veronika-g-00/ebiznes/blob/main/zadanie%204%20Go/project_go/handlers/product_handler.go)
+[Link](https://github.com/veronika-g-00/ebiznes/blob/main/zadanie%204%20Go/project_go/handlers/product_handler.go)
 
 KOD: https://github.com/veronika-g-00/ebiznes/tree/main/zadanie%204%20Go/project_go
