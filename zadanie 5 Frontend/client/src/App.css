@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(201, 206, 211) ;
+  color: #050505;
+}
+
+.App {
+  max-width: 900px;
+  margin:20px auto;
+  padding: 20px;
+  background-color: whitesmoke;
+  border: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /*text-align: center;*/
+}
+
+.App h1{
+  text-align: center;
+  color:rgba(19, 42, 104)
+}
+
+.App h2 {
+  color:rgb(15, 9, 31); 
+  border-bottom: 1px solid rgb(15, 9, 31);
+  padding-bottom: 5px;
+  margin-top: 30px;
+
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgb(15, 9, 31);
+  margin: 30px 0;
+}
+
+.App > div > h2 + ul {
+  list-style: none;
+  padding: 0;
+}
+
+.App > div > h2 + ul > li {
+  background-color: #fff;
+  border: 1px solid #eee;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
